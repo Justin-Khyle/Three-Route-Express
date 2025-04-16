@@ -1,0 +1,14 @@
+# Node modules and logs
+node_modules/
+*.log
+
+# macOS and system files
+.DS_Store
+.Trash/
+Library/
+Pictures/
+.vscode/
+
+# Submodules or other repos
+.nvm/
+Desktop/Coding Stuff/
